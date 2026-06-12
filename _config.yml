@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Mingjin Kuai"
   avatar           : "images/kmj.jpg"
-  bio              : "Ph.D, Nanjing University"
-  location         : "Suzhou, China <br> E-mail: mingjinkuai@smail.nju.edu.cn"
+  bio              : "Ph.D, Nanjing University <br> mingjinkuai@smail.nju.edu.cn"
+  location         : "Suzhou, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=j5NIvnEAAAAJ"
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0009-0006-0230-4595"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
