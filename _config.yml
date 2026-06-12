@@ -24,11 +24,11 @@ author:
   name             : "Mingjin Kuai"
   avatar           : "images/kmj.jpg"
   bio              : "Ph.D, Nanjing University"
-  location         : "Suzhou, China <br> <i class="fas fa-fw fa-envelope" aria-hidden="true"></i> mingjinkuai@smail.nju.edu.cn"
+  location         : "Suzhou, China <br> ✉ mingjinkuai@smail.nju.edu.cn"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=j5NIvnEAAAAJ"
-  email            : #"mingjinkuai@smail.nju.edu.cn"
+  email            : # "mingjinkuai@smail.nju.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
