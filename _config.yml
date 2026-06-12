@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=j5NIvnEAAAAJ"
-  email            : "mingjinkuai@smail.nju.edu.cn"
+  email            : #"mingjinkuai@smail.nju.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
