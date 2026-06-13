@@ -27,7 +27,7 @@ My research interests include but are not limited to:
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *01,2026*: &nbsp;🎉 Invited to serve as a reviewer for IJCV, IEEE TIP, IEEE TCSVT, ACM TOMM, and Visual Intelligence.
+- *2026.01*: &nbsp;🎉 Invited to serve as a reviewer for IJCV, IEEE TIP, IEEE TCSVT, ACM TOMM, and Visual Intelligence.
 
 # 📝 Selected Publications 
 - [Dynamic graph-enhanced event refinement for temporal sentence grounding of micro-moments](https://ieeexplore.ieee.org/abstract/document/11533475/), **Mingjin Kuai**, You Qin, Xiang Fang, Yiming Wu, Wei Ji, Roger Zimmermann, TMM 2026
