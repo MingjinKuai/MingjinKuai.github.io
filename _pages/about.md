@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+# About me
+Hello, everyone. My name is Mingjin Kuai, and welcome to my personal website. I earned my M.Eng degree from Central South University in Changsha, China, in 2025, under the guidance of [Prof. Jun Long](https://faculty.csu.edu.cn/longjun/zh_CN/index.htm)) and [Prof. Zhan Yang](https://faculty.csu.edu.cn/yangzhan/zh_CN/). I am currently a Ph.D. student at Nanjing University, where I am fortunate to be advised by [Prof. Wei Ji](https://is.nju.edu.cn/jw/main.htm). I currently serve as a reviewer for IJCV, IEEE TIP, IEEE TCSVT, ACM TOMM, and Visual Intelligence.
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
@@ -55,4 +56,5 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2026.04 - 2026.09*, [Tencent YuanBao](https://yuanbao.tencent.com/), Researcher, Beijing, China.
+- *2025.07 - 2025.08*, [UniX AI](https://www.unix-group.ai/cn), Researcher, Suzhou, China.
