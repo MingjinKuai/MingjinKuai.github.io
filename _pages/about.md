@@ -39,5 +39,5 @@ My research interests include but are not limited to:
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2026.04 - 2026.09*, [Tencent YuanBao](https://yuanbao.tencent.com/), Researcher, Beijing, China.
+- *2026.04 - 2026.10*, [Tencent YuanBao](https://yuanbao.tencent.com/), Researcher, Beijing, China.
 - *2025.07 - 2025.08*, [UniX AI](https://www.unix-group.ai/cn), Researcher, Suzhou, China.
