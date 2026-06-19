@@ -26,18 +26,17 @@ My research interests include but are not limited to:
 - Multi-modal Pretrained Models and Agent;
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.04*: &nbsp;🎉 A paper has been accepted by SIGIR 2026 (first author). 
 - *2026.01*: &nbsp;🎉 Invited to serve as a reviewer for IJCV, IEEE TIP, IEEE TCSVT, ACM TOMM, and Visual Intelligence.
 
 # 📝 Selected Publications 
+- [Generation-Augmented Video Corpus Moment Retrieval], **Mingjin Kuai**, Qianyin Xiao, Juncheng Li, Jin Peng, Lizi Liao, Wei Ji, SIGIR 2026
 - [Dynamic graph-enhanced event refinement for temporal sentence grounding of micro-moments](https://ieeexplore.ieee.org/abstract/document/11533475/), **Mingjin Kuai**, You Qin, Xiang Fang, Yiming Wu, Wei Ji, Roger Zimmermann, TMM 2026
 - [Rethink: reveal the impact of semantic distribution transfer from the cross-modal hashing perspective](https://www.sciencedirect.com/science/article/abs/pii/S1566253526000023), Yinan Li, Zhi Liu, Jiajun Tang, Binghong Chen, **Mingjin Kuai**, Jun Long, Zhan Yang, Information Fusion 2026 
 - [Statistical Model-driven Similarity Hashing: Bridging Modalities for Efficient Unsupervised Retrieval](https://ojs.aaai.org/index.php/AAAI/article/view/33304), **Mingjin Kuai**, Jun Long, Zhan Yang, AAAI 2025
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
+- *2025.02*, Statistical Model-driven Similarity Hashing: Bridging Modalities for Efficient Unsupervised Retrieval. AAAI Presentation.
 # 💻 Internships
-- *2026.04 - 2026.10*, [Tencent YuanBao](https://yuanbao.tencent.com/), Researcher, Beijing, China.
+- *2026.04 - Present*, [Tencent YuanBao](https://yuanbao.tencent.com/), Researcher, Beijing, China.
 - *2025.07 - 2025.08*, [UniX AI](https://www.unix-group.ai/cn), Researcher, Suzhou, China.
