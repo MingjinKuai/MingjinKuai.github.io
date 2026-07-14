@@ -30,12 +30,13 @@ My research interests include but are not limited to:
 - *2026.01*: &nbsp;🎉 Invited to serve as a reviewer for IJCV, IEEE TIP, IEEE TCSVT, ACM TOMM, and Visual Intelligence.
 
 # 📝 Selected Publications 
-- [Generation-Augmented Video Corpus Moment Retrieval], **Mingjin Kuai**, Qianyin Xiao, Juncheng Li, Jin Peng, Lizi Liao, Wei Ji, SIGIR 2026
+- [Generation-Augmented Video Corpus Moment Retrieval](https://dl.acm.org/doi/10.1145/3805712.3809742), **Mingjin Kuai**, Qianyin Xiao, Juncheng Li, Jin Peng, Lizi Liao, Wei Ji, SIGIR 2026
 - [Dynamic graph-enhanced event refinement for temporal sentence grounding of micro-moments](https://ieeexplore.ieee.org/abstract/document/11533475/), **Mingjin Kuai**, You Qin, Xiang Fang, Yiming Wu, Wei Ji, Roger Zimmermann, TMM 2026
 - [Rethink: reveal the impact of semantic distribution transfer from the cross-modal hashing perspective](https://www.sciencedirect.com/science/article/abs/pii/S1566253526000023), Yinan Li, Zhi Liu, Jiajun Tang, Binghong Chen, **Mingjin Kuai**, Jun Long, Zhan Yang, Information Fusion 2026 
 - [Statistical Model-driven Similarity Hashing: Bridging Modalities for Efficient Unsupervised Retrieval](https://ojs.aaai.org/index.php/AAAI/article/view/33304), **Mingjin Kuai**, Jun Long, Zhan Yang, AAAI 2025
 
 # 💬 Invited Talks
+- *2025.07*, Generation-Augmented Video Corpus Moment Retrieval. SIGIR(oral) Presentation.
 - *2025.02*, Statistical Model-driven Similarity Hashing: Bridging Modalities for Efficient Unsupervised Retrieval. AAAI Presentation.
 # 💻 Internships
 - *2026.04 - Present*, [Tencent YuanBao](https://yuanbao.tencent.com/), Researcher, Beijing, China.
