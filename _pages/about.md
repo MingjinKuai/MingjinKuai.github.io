@@ -32,7 +32,7 @@ My research interests include but are not limited to:
 - *2026.01*: &nbsp;🎉 Invited to serve as a reviewer for IJCV, IEEE TIP, IEEE TCSVT, ACM TOMM, and Visual Intelligence.
 
 # 📝 Selected Publications 
-- [Contextual Hashing with Decoupled Localization for Efficient Video Corpus Moment Retrieval], **Mingjin Kuai**, Jin Peng, Zheqi Lv, You Qin, Zhan Yang, Zhen Zhang, Wei Zhou, Wei Ji, TIP 2026
+- [Contextual Hashing with Decoupled Localization for Efficient Video Corpus Moment Retrieval](https://pubmed.ncbi.nlm.nih.gov/42961805/), **Mingjin Kuai**, Jin Peng, Zheqi Lv, You Qin, Zhan Yang, Zhen Zhang, Wei Zhou, Wei Ji, TIP 2026
 - [Statistical Model-Driven Similarity Hashing for Unsupervised Multimedia Retrieval](https://europepmc.org/article/med/42726628), Binghong Chen, Yinan Li, **Mingjin Kuai**, Longzhi Sun, Zhan Yang, TIP 2026
 - [QHCM-Mamba: Query-Conditioned Hierarchical Causal Memory for Online Video Moment Retrieval], Haoran Li, **Mingjin Kuai**, Xiang Fang, Zhen Zhang, Wei Ji, ACM MM 2026 Demo and Video Track
 - [SemStream: Semantic Boundary-Aware Memory for Streaming Video Understanding], Zixuan Tan, **Mingjin Kuai**, Zheqi Lv, Hao Fei, Wei Ji, ACM MM 2026
