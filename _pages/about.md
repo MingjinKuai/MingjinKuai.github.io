@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About me
-Welcome to my personal website. I earned my M.Eng degree from Central South University in Changsha, China, in 2025, under the guidance of [Prof. Jun Long](https://faculty.csu.edu.cn/longjun/zh_CN/index.htm) and [Prof. Zhan Yang](https://faculty.csu.edu.cn/yangzhan/zh_CN/). I am currently a Ph.D. student at Nanjing University, where I am fortunate to be advised by [Prof. Wei Ji](https://is.nju.edu.cn/jw/main.htm). I currently serve as a reviewer for IJCV, IEEE TIP, TMLR, AAAI, IEEE TCSVT, ACM TOMM, and Visual Intelligence.
+Welcome to my personal website. I am currently a Ph.D. student at Nanjing University, where I am fortunate to be advised by [Prof. Wei Ji](https://is.nju.edu.cn/jw/main.htm). I earned my M.Eng degree from Central South University in Changsha, China, in 2025, under the guidance of [Prof. Jun Long](https://faculty.csu.edu.cn/longjun/zh_CN/index.htm) and [Prof. Zhan Yang](https://faculty.csu.edu.cn/yangzhan/zh_CN/). I currently serve as a reviewer for IJCV, IEEE TIP, TMLR, AAAI, IEEE TCSVT, ACM TOMM, and Visual Intelligence.
 
 My research interests include but are not limited to:
 - Multi-modal Understanding and Generation;
