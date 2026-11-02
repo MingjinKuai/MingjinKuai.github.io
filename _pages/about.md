@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About me
-Welcome to my personal website. I earned my M.Eng degree from Central South University in Changsha, China, in 2025, under the guidance of [Prof. Jun Long](https://faculty.csu.edu.cn/longjun/zh_CN/index.htm) and [Prof. Zhan Yang](https://faculty.csu.edu.cn/yangzhan/zh_CN/). I am currently a Ph.D. student at Nanjing University, where I am fortunate to be advised by [Prof. Wei Ji](https://is.nju.edu.cn/jw/main.htm). I currently serve as a reviewer for IJCV, IEEE TIP, IEEE TCSVT, ACM TOMM, and Visual Intelligence.
+Welcome to my personal website. I earned my M.Eng degree from Central South University in Changsha, China, in 2025, under the guidance of [Prof. Jun Long](https://faculty.csu.edu.cn/longjun/zh_CN/index.htm) and [Prof. Zhan Yang](https://faculty.csu.edu.cn/yangzhan/zh_CN/). I am currently a Ph.D. student at Nanjing University, where I am fortunate to be advised by [Prof. Wei Ji](https://is.nju.edu.cn/jw/main.htm). I currently serve as a reviewer for IJCV, IEEE TIP, TMLR, AAAI, IEEE TCSVT, ACM TOMM, and Visual Intelligence.
 
 My research interests include but are not limited to:
 - Multi-modal Understanding and Generation;
@@ -26,11 +26,14 @@ My research interests include but are not limited to:
 - Multi-modal Pretrained Models and Agent;
 
 # 🔥 News
+- *2026.10*: &nbsp;🎉 A paper has been accepted by TIP (first author). 
 - *2026.08*: &nbsp;🎉 Invited to serve as a reviewer for AAAI 2027.
 - *2026.04*: &nbsp;🎉 A paper has been accepted by SIGIR 2026 (first author). 
 - *2026.01*: &nbsp;🎉 Invited to serve as a reviewer for IJCV, IEEE TIP, IEEE TCSVT, ACM TOMM, and Visual Intelligence.
 
 # 📝 Selected Publications 
+- [Contextual Hashing with Decoupled Localization for Efficient Video Corpus Moment Retrieval], **Mingjin Kuai**, Jin Peng, Zheqi Lv, You Qin, Zhan Yang, Zhen Zhang, Wei Zhou, Wei Ji, TIP 2026
+- [Statistical Model-Driven Similarity Hashing for Unsupervised Multimedia Retrieval](https://europepmc.org/article/med/42726628), Binghong Chen, Yinan Li, **Mingjin Kuai**, Longzhi Sun, Zhan Yang, TIP 2026
 - [QHCM-Mamba: Query-Conditioned Hierarchical Causal Memory for Online Video Moment Retrieval], Haoran Li, **Mingjin Kuai**, Xiang Fang, Zhen Zhang, Wei Ji, ACM MM 2026 Demo and Video Track
 - [SemStream: Semantic Boundary-Aware Memory for Streaming Video Understanding], Zixuan Tan, **Mingjin Kuai**, Zheqi Lv, Hao Fei, Wei Ji, ACM MM 2026
 - [Generation-Augmented Video Corpus Moment Retrieval](https://dl.acm.org/doi/10.1145/3805712.3809742), **Mingjin Kuai**, Qianyin Xiao, Juncheng Li, Jin Peng, Lizi Liao, Wei Ji, SIGIR 2026
@@ -39,7 +42,8 @@ My research interests include but are not limited to:
 - [Statistical Model-driven Similarity Hashing: Bridging Modalities for Efficient Unsupervised Retrieval](https://ojs.aaai.org/index.php/AAAI/article/view/33304), **Mingjin Kuai**, Jun Long, Zhan Yang, AAAI 2025
 
 # 💬 Invited Talks
-- *2025.07*, Generation-Augmented Video Corpus Moment Retrieval. SIGIR(oral) Presentation.
+- *2026.10*, Multimodal Information Retrieval. NExT++2026 Suzhou PhD/Post-Doc Session.
+- *2026.07*, Generation-Augmented Video Corpus Moment Retrieval. SIGIR(oral) Presentation.
 - *2025.02*, Statistical Model-driven Similarity Hashing: Bridging Modalities for Efficient Unsupervised Retrieval. AAAI Presentation.
 # 💻 Internships
 - *2026.04 - 2026.10*, [Tencent YuanBao](https://yuanbao.tencent.com/), Researcher, Beijing, China.
